@@ -1,0 +1,25 @@
+body{
+    background-color:#99ccff;
+}
+
+.he{
+    font-size: 20px;
+    color: black;
+}
+.he2{
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: black;
+}
+.hi{
+    margin-top: 20px;
+    color: black;
+}
+.center {
+    color: black;
+    background-color: burlywood;
+    margin-top: 20px;
+  }
+
+  
